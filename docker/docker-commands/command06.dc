@@ -1,1 +1,3 @@
 docker image pull nginx:1.21.3-alpine
+
+* baixa a imagem do nginx:1.21.3-alpine

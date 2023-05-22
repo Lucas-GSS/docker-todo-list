@@ -1,1 +1,3 @@
 docker image build -t todotests ./todo-app/tests
+
+* executa o processo de build da imagem dos testes da aplicação Todo List

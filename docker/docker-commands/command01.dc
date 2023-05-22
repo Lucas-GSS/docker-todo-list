@@ -1,1 +1,3 @@
-docker container create -it --name 01container alpine:3.12 
+docker container create -it --name 01container alpine:3.12
+
+*cria um container sem executá-lo, cuja a imagem é a 'alpine:3.12' e nomeia-o de '01conatiner'

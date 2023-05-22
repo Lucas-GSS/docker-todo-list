@@ -1,1 +1,3 @@
 docker image build -t todofrontend ./todo-app/front-end
+
+* executa o processo de build da imagem do frontend da aplicação Todo List

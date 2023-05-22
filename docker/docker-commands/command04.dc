@@ -1,1 +1,3 @@
 docker container exec 01container cat /etc/os-release
+
+* executa um comando no container sem se acoplar a ele. O output desse comando são informações da distro alpine

@@ -1,1 +1,4 @@
 docker container run -d --name=02images -p 3000:80 nginx:1.21.3-alpine
+
+* inicia um container da imagem do nginx em segundo plano, o nomeia de 02images e mapeia a porta 80 do container
+para a 3000 da máquina local

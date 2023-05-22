@@ -1,1 +1,3 @@
 docker rm -f 01container
+
+* remove o container 01container

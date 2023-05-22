@@ -1,1 +1,3 @@
 docker-compose up -d
+
+* sobe a orquestração dos serviços para que os containers possam funcionar e se comunicar juntos
